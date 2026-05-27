@@ -21,6 +21,5 @@ Progetto scolastico realizzato con:
 
 ## Componenti gruppo
 
-- Mario Rossi → HTML e CSS
-- Luca Bianchi → JavaScript
-- Anna Verdi → Gemini API e GitHub
+- Renzo Danilo Rodriguez → HTML e CSS
+- Lautaru Ionut  Alessio → JavaScript , Gemini API e GitHub
